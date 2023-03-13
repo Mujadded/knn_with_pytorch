@@ -9,4 +9,5 @@ A Simple implementation of  KNN using pyTorch.
 `knn_test.ipynb` has the playgroud where this is tested.
 
 Example of KNN:
+
 ![KNN plot](https://github.com/Mujadded/knn_with_pytorch/blob/main/output.png?raw=true)
